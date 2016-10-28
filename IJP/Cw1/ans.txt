@@ -1,0 +1,2 @@
+13.2
+    Becasue all methods in MyController is no any return. We can not test it in the test class. In the MyCahceProxyTest class, we can get the reponse from cacheproxy
