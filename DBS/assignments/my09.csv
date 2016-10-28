@@ -1,0 +1,9 @@
+ country | count 
+---------+-------
+ USA     |    33
+ ITA     |    33
+ JPN     |    18
+ CHN     |    27
+ GBR     |    26
+(5 rows)
+

@@ -1,0 +1,2192 @@
+Ackroyd --> (TTS,59) 	 (SLIP,94) 	 (PM,46) 	 (HCI,44) 	 (COC,43) 	 (BIO2,95) 	 (ADS,52)
+Ackroyd --> (ES,46) 	 (AR,88)
+Ackroyd --> (INF1-CG,94) 	 (COC,90) 	 (BIO2,100) 	 (BIO1,68) 	 (AV,83) 	 (AGTA,43)
+Ackroyd --> (IRR,63) 	 (IAML,66) 	 (DAPA,67) 	 (ASR,90) 	 (ADBS,80)
+Ackroyd --> (IRP,77) 	 (IJP,61)
+Ackroyd --> (COC,83) 	 (BIO2,64) 	 (ADBS,65) 	 (ABS,71)
+Ackroyd --> (TTS,53) 	 (PPLS,71) 	 (IJP,50) 	 (BIO2,46) 	 (AR,43)
+Ackroyd --> (INF1-CG,87) 	 (BIO1,67) 	 (AR,84) 	 (ANLP,87)
+Ackroyd --> (INF1-CG,93) 	 (IJP,76) 	 (COC,89)
+Ackroyd --> (NIP,56) 	 (INF1-CG,60) 	 (ASR,53)
+Ackroyd --> (TTS,54) 	 (EXC,64) 	 (COC,40) 	 (ADS,45)
+Ackroyd --> (EXC,86) 	 (CCN,79) 	 (ASR,90) 	 (ADBS,74)
+Ackroyd --> (AV,85) 	 (ADS,95)
+Ackroyd --> (IRR,55) 	 (COC,70)
+Ackroyd --> (IRP,43) 	 (ES,80) 	 (DMR,99)
+Ackroyd --> (AR,69)	
+Ackroyd --> (RTN,46) 	 (INF1-CG,48) 	 (IJP,43) 	 (HCI,56) 	 (BIO2,100) 	 (ANLP,67)
+Ackroyd --> (IRR,82)	
+Ackroyd --> (DAPA,73)	
+Ackroyd --> (SLIP,47) 	 (PPLS,64) 	 (IAML,65)
+Ackroyd --> (COPT,57)	
+Ackroyd --> (ASR,78)	
+Ackroyd --> (INF2D,49) 	 (IJP,78) 	 (DMR,72) 	 (COPT,80) 	 (BIO2,41)
+Ackroyd --> (NIP,89) 	 (ES,81) 	 (COPT,82) 	 (ASR,46)
+Ackroyd --> (TTS,66) 	 (COPT,63) 	 (CCN,97) 	 (AV,84)
+Ackroyd --> (TTS,75) 	 (IJP,93) 	 (EXC,80) 	 (BIO1,81)
+Ackroyd --> (IAML,73) 	 (DISS,46)
+Ackroyd --> (TTS,50) 	 (AGTA,76) 	 (ABS,41)
+Ackroyd --> (IRP,40)	
+Ackroyd --> (SLIP,43) 	 (PM,81) 	 (ES,42) 	 (DAPA,47) 	 (ABS,92)
+Ackroyd --> (IRP,95) 	 (AV,79)
+Ackroyd --> (AGTA,75)	
+Ackroyd --> (TTS,70) 	 (SLIP,73) 	 (IJP,52) 	 (DAPA,80)
+Ackroyd --> (PPLS,98) 	 (NIP,84) 	 (COC,90) 	 (BIO2,82) 	 (AV,96)
+Ackroyd --> (SLIP,93) 	 (IRR,70)
+Ackroyd --> (INF1-CG,96) 	 (ANLP,42) 	 (AGTA,42)
+Ackroyd --> (INF1-CG,42) 	 (CT,86) 	 (ADBS,88)
+Ackroyd --> (PM,50) 	 (CT,61)
+Ackroyd --> (PPLS,90) 	 (DMR,86) 	 (DISS,70)
+Ackroyd -->	
+Ackroyd --> (TTS,97) 	 (PPLS,59) 	 (HCI,99) 	 (ES,55) 	 (COPT,100)
+Ackroyd --> (PPLS,51) 	 (IRP,50) 	 (CCN,73) 	 (ASR,72)
+Ackroyd --> (ABS,76)	
+Ackroyd --> (SLIP,68) 	 (IAML,82) 	 (CT,81) 	 (COPT,64) 	 (AV,86) 	 (ADBS,61)
+Ackroyd --> (PM,45) 	 (IRP,68) 	 (AGTA,70)
+Ackroyd --> (HCI,92) 	 (EXC,69) 	 (DMR,43) 	 (COPT,97) 	 (AV,58) 	 (AGTA,69)
+Ackroyd --> (INF2D,75) 	 (ES,50)
+Ackroyd --> (IAML,59) 	 (DISS,74) 	 (CT,71) 	 (BIO2,93) 	 (ADS,59)
+Ackroyd --> (INF1-CG,74) 	 (COC,45) 	 (AV,85)
+Ackroyd -->	
+Ackroyd --> (IRR,79) 	 (CT,95) 	 (AV,97) 	 (AR,70)
+Ackroyd --> (DAPA,43)	
+Ackroyd --> (IRP,58) 	 (ASR,88)
+Ackroyd --> (PPLS,73) 	 (INF2D,93) 	 (DISS,77)
+Ackroyd --> (PM,96) 	 (IRP,69) 	 (EXC,77) 	 (DISS,80) 	 (AGTA,89)
+Ackroyd --> (CT,50) 	 (COPT,62) 	 (CCN,78)
+Ackroyd --> (RTN,57) 	 (CCN,86)
+Ackroyd --> (TDD,62) 	 (IRP,99)
+Ackroyd --> (COC,52) 	 (BIO2,58)
+Ackroyd -->	
+Ackroyd --> (EXC,94) 	 (DAPA,69) 	 (BIO1,83)
+Ackroyd --> (INF2D,100) 	 (IJP,88) 	 (IAML,41) 	 (BIO2,75) 	 (AV,49)
+Ackroyd --> (IJP,85) 	 (BIO2,62)
+Ackroyd --> (CT,89)	
+Ackroyd --> (AGTA,45)	
+Ackroyd --> (DAPA,56)	
+Ackroyd --> (ANLP,77)	
+Ackroyd -->	
+Ackroyd --> (TTS,55) 	 (AR,79)
+Ackroyd --> (HCI,49)	
+Ackroyd --> (ES,74) 	 (COC,67) 	 (AV,59)
+Ackroyd --> (HCI,83) 	 (DISS,72) 	 (AR,56)
+Ackroyd --> (PM,69) 	 (HCI,76) 	 (CT,52) 	 (AV,95)
+Ackroyd --> (EXC,41)	
+Ackroyd --> (PM,59) 	 (CT,43) 	 (AR,83)
+Ackroyd --> (DAPA,84) 	 (CCN,61)
+Ackroyd -->	
+Ackroyd --> (AGTA,84)	
+Ackroyd --> (SLIP,62)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADBS,48)	
+Ackroyd --> (INF2D,46)	
+Ackroyd --> (TTS,100) 	 (CCN,74)
+Ackroyd --> (BIO1,41)	
+Ackroyd --> (TTS,61) 	 (HCI,81)
+Ackroyd --> (TTS,77)	
+Ackroyd --> (ES,54)	
+Ackroyd --> (TTS,64) 	 (CT,96) 	 (AGTA,44)
+Ackroyd --> (TDD,41) 	 (RTN,55)
+Ackroyd --> (EXC,85)	
+Ackroyd -->	
+Ackroyd --> (NIP,48)	
+Ackroyd --> (TTS,96)	
+Ackroyd --> (ADBS,93)	
+Ackroyd --> (PPLS,65)	
+Ackroyd --> (RTN,57) 	 (DISS,91)
+Ackroyd --> (ADS,77)	
+Ackroyd --> (ES,44)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (PPLS,51) 	 (IJP,99)
+Ackroyd --> (RTN,79)	
+Ackroyd --> (IRR,60) 	 (INF2D,62) 	 (AV,63) 	 (AGTA,75)
+Ackroyd --> (RTN,42)	
+Ackroyd --> (DMR,46)	
+Ackroyd --> (DMR,48) 	 (AGTA,78)
+Ackroyd --> (CCN,57)	
+Ackroyd --> (TDD,49) 	 (AR,73)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IRP,87)	
+Ackroyd --> (INF1-CG,90)	
+Ackroyd --> (PM,69) 	 (NIP,56) 	 (DMR,55)
+Ackroyd --> (SLIP,85) 	 (CCN,100)
+Ackroyd --> (BIO2,50) 	 (AGTA,89)
+Ackroyd --> (IRP,81) 	 (IAML,83) 	 (DISS,83)
+Ackroyd -->	
+Ackroyd --> (HCI,68)	
+Ackroyd --> (PM,80) 	 (ANLP,91)
+Ackroyd --> (NIP,54)	
+Ackroyd --> (CT,99)	
+Ackroyd -->	
+Ackroyd --> (ANLP,46) 	 (ADBS,60)
+Ackroyd -->	
+Ackroyd --> (AGTA,49)	
+Ackroyd --> (PPLS,90)	
+Ackroyd --> (IRP,49) 	 (INF2D,82)
+Ackroyd --> (NIP,82) 	 (HCI,45)
+Ackroyd --> (DISS,77) 	 (AGTA,57)
+Ackroyd --> (CCN,42) 	 (BIO2,95)
+Ackroyd --> (NIP,40) 	 (COPT,66) 	 (AGTA,66)
+Ackroyd --> (CT,57) 	 (AGTA,62)
+Ackroyd --> (PM,97)	
+Ackroyd -->	
+Ackroyd --> (ES,55) 	 (DMR,94)
+Ackroyd --> (IRP,61) 	 (INF1-CG,66)
+Ackroyd --> (INF2D,65) 	 (ANLP,72) 	 (ADS,95)
+Ackroyd --> (CT,86) 	 (CCN,58)
+Ackroyd --> (DMR,82) 	 (COPT,62)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF2D,81) 	 (INF1-CG,88) 	 (BIO2,47)
+Ackroyd --> (AR,69)	
+Ackroyd --> (DMR,99)	
+Ackroyd --> (PPLS,57)	
+Ackroyd -->	
+Ackroyd --> (IRP,63)	
+Ackroyd -->	
+Ackroyd --> (INF2D,43)	
+Ackroyd --> (ASR,56)	
+Ackroyd --> (COC,40)	
+Ackroyd --> (HCI,86)	
+Ackroyd -->	
+Ackroyd --> (COC,96)	
+Ackroyd --> (IRP,48) 	 (ABS,66)
+Ackroyd -->	
+Ackroyd --> (NIP,71)	
+Ackroyd --> (RTN,86)	
+Ackroyd --> (DMR,51)	
+Ackroyd --> (EXC,88)	
+Ackroyd -->	
+Ackroyd --> (HCI,72) 	 (COC,92)
+Ackroyd --> (HCI,96)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADBS,98)	
+Ackroyd --> (NIP,52) 	 (DISS,88)
+Ackroyd --> (TDD,59) 	 (IRR,95)
+Ackroyd --> (ANLP,47)	
+Ackroyd -->	
+Ackroyd --> (BIO1,70) 	 (AV,53)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TDD,75)	
+Ackroyd --> (SLIP,95) 	 (AGTA,87)
+Ackroyd --> (ASR,98)	
+Ackroyd -->	
+Ackroyd --> (ADBS,92)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (AGTA,45)	
+Ackroyd --> (IAML,66) 	 (EXC,94) 	 (CT,51)
+Ackroyd --> (CT,83)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (CCN,88)	
+Ackroyd --> (IAML,60)	
+Ackroyd --> (RTN,85)	
+Ackroyd -->	
+Ackroyd --> (IRR,55)	
+Ackroyd --> (NIP,47) 	 (COPT,45)
+Ackroyd --> (DMR,82)	
+Ackroyd --> (IJP,87)	
+Ackroyd --> (SLIP,42) 	 (ES,60) 	 (ADS,96)
+Ackroyd --> (INF2D,81)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ASR,88)	
+Ackroyd --> (DMR,92) 	 (BIO2,95)
+Ackroyd --> (COPT,40)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADBS,77)	
+Ackroyd --> (SLIP,62) 	 (RTN,99) 	 (NIP,78)
+Ackroyd --> (IRR,88) 	 (BIO2,56)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (HCI,53)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (PPLS,86) 	 (ANLP,94)
+Ackroyd --> (TTS,55)	
+Ackroyd --> (EXC,75)	
+Ackroyd --> (TDD,66) 	 (HCI,68)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (AGTA,43)	
+Ackroyd -->	
+Ackroyd --> (COPT,47)	
+Ackroyd -->	
+Ackroyd --> (HCI,85) 	 (DMR,70) 	 (DAPA,78)
+Ackroyd --> (SLIP,79)	
+Ackroyd --> (SLIP,67) 	 (AV,77)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DAPA,49)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DISS,49)	
+Ackroyd --> (PPLS,54)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ASR,59)	
+Ackroyd -->	
+Ackroyd --> (PPLS,45)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (CT,89) 	 (AGTA,87)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (PM,66)	
+Ackroyd -->	
+Ackroyd --> (IJP,81) 	 (ASR,74)
+Ackroyd -->	
+Ackroyd --> (CT,62)	
+Ackroyd -->	
+Ackroyd --> (TDD,63) 	 (IRP,98)
+Ackroyd --> (AV,40)	
+Ackroyd --> (TDD,62) 	 (ADBS,41)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (NIP,45)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF2D,64)	
+Ackroyd --> (INF1-CG,69)	
+Ackroyd --> (EXC,99)	
+Ackroyd --> (TTS,89) 	 (NIP,81)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IJP,67)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (AGTA,50)	
+Ackroyd -->	
+Ackroyd --> (SLIP,86)	
+Ackroyd --> (RTN,93)	
+Ackroyd -->	
+Ackroyd --> (ADS,58)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,77) 	 (CCN,82)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TDD,99)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ABS,93)	
+Ackroyd --> (ABS,90)	
+Ackroyd --> (DAPA,78)	
+Ackroyd --> (AR,90)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IAML,65)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ANLP,45)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ASR,70)	
+Ackroyd -->	
+Ackroyd --> (TTS,86)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (RTN,44) 	 (ABS,55)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DISS,49)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (NIP,63) 	 (AV,99)
+Ackroyd --> (AV,83)	
+Ackroyd -->	
+Ackroyd --> (IJP,96)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (PPLS,52) 	 (INF1-CG,77)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (EXC,93)	
+Ackroyd -->	
+Ackroyd --> (SLIP,78)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (COC,40)	
+Ackroyd -->	
+Ackroyd --> (INF1-CG,67)	
+Ackroyd --> (ADBS,96)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (PPLS,82)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DMR,55)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TTS,65) 	 (TDD,78) 	 (PPLS,70) 	 (IRR,80) 	 (INF2D,45) 	 (IAML,90) 	 (EXC,48) 	 (DISS,44) 	 (CT,88) 	 (COPT,62) 	 (BIO1,46) 	 (ANLP,74) 	 (AGTA,46) 	 (ADS,53) 	 (ADBS,88)
+Ackroyd --> (SLIP,78) 	 (RTN,67) 	 (PPLS,64) 	 (ES,41) 	 (DAPA,81) 	 (COC,99)
+Ackroyd --> (INF1-CG,68) 	 (DMR,51) 	 (AV,80) 	 (ADS,84)
+Ackroyd --> (IRP,48) 	 (CT,73) 	 (CCN,89) 	 (ASR,63)
+Ackroyd --> (EXC,48) 	 (ES,78) 	 (COPT,71) 	 (AGTA,64)
+Ackroyd --> (TTS,55) 	 (INF2D,78) 	 (INF1-CG,64) 	 (BIO2,86)
+Ackroyd --> (RTN,87) 	 (PM,48) 	 (EXC,63) 	 (COC,64) 	 (BIO2,75) 	 (ADBS,89)
+Ackroyd --> (SLIP,90) 	 (PPLS,47) 	 (IRP,55) 	 (HCI,43) 	 (COPT,69)
+Ackroyd --> (PPLS,69) 	 (ES,69) 	 (CT,95) 	 (CCN,70)
+Ackroyd --> (IJP,49) 	 (AR,86) 	 (ABS,60)
+Ackroyd --> (TTS,84) 	 (TDD,75) 	 (IRR,48) 	 (ES,80) 	 (BIO1,58)
+Ackroyd --> (ANLP,94) 	 (ADS,46)
+Ackroyd --> (SLIP,96) 	 (RTN,89) 	 (INF2D,90) 	 (DAPA,98) 	 (ASR,80) 	 (ANLP,48)
+Ackroyd --> (TTS,85) 	 (HCI,58) 	 (BIO2,72)
+Ackroyd --> (PM,63) 	 (NIP,94) 	 (INF1-CG,99) 	 (DISS,45) 	 (CT,59)
+Ackroyd --> (TDD,40) 	 (RTN,77) 	 (IAML,90) 	 (EXC,96) 	 (BIO1,92)
+Ackroyd --> (RTN,82) 	 (PM,96) 	 (AGTA,71)
+Ackroyd --> (AV,68)	
+Ackroyd --> (DAPA,94) 	 (CT,44) 	 (AGTA,90) 	 (ADS,60)
+Ackroyd --> (IAML,94) 	 (ES,67) 	 (COPT,94) 	 (ABS,67)
+Ackroyd --> (INF1-CG,80) 	 (CT,51) 	 (AR,78)
+Ackroyd --> (INF2D,81) 	 (DAPA,58) 	 (ASR,95)
+Ackroyd --> (TTS,95) 	 (IRP,42) 	 (CCN,74) 	 (AGTA,52)
+Ackroyd --> (TDD,99) 	 (NIP,90) 	 (IJP,77) 	 (EXC,98) 	 (CT,56) 	 (ADS,88)
+Ackroyd --> (BIO1,49) 	 (AR,55) 	 (ABS,57)
+Ackroyd --> (TTS,47) 	 (DISS,65)
+Ackroyd --> (TDD,44) 	 (RTN,76) 	 (ES,52)
+Ackroyd --> (EXC,80) 	 (DAPA,98) 	 (ADS,74)
+Ackroyd --> (TTS,96)	
+Ackroyd --> (CCN,40) 	 (ANLP,51)
+Ackroyd --> (TTS,59) 	 (PM,72) 	 (INF2D,84) 	 (AR,94) 	 (ADS,51) 	 (ADBS,71)
+Ackroyd --> (IRR,76) 	 (BIO2,81)
+Ackroyd --> (INF2D,72) 	 (EXC,82) 	 (AV,88) 	 (ASR,48)
+Ackroyd --> (TDD,83) 	 (DISS,74) 	 (BIO2,91)
+Ackroyd --> (IRR,49) 	 (ADS,45)
+Ackroyd --> (RTN,50)	
+Ackroyd --> (DMR,74) 	 (BIO1,45) 	 (AR,45)
+Ackroyd -->	
+Ackroyd --> (DISS,92) 	 (AGTA,99)
+Ackroyd --> (TTS,91) 	 (IRP,87) 	 (IJP,63) 	 (AR,90)
+Ackroyd --> (INF1-CG,64) 	 (EXC,67) 	 (ASR,94) 	 (AGTA,86)
+Ackroyd -->	
+Ackroyd --> (IRP,73) 	 (COPT,76) 	 (AV,99) 	 (ADBS,51)
+Ackroyd --> (NIP,42) 	 (INF2D,50) 	 (CT,56)
+Ackroyd --> (ADS,81)	
+Ackroyd --> (AGTA,69)	
+Ackroyd --> (BIO1,100)	
+Ackroyd --> (CCN,93)	
+Ackroyd --> (RTN,90) 	 (PPLS,69)
+Ackroyd --> (COPT,55) 	 (AR,88)
+Ackroyd --> (ASR,68) 	 (AGTA,61)
+Ackroyd --> (INF1-CG,86) 	 (DMR,86) 	 (COC,53)
+Ackroyd --> (TDD,58) 	 (PPLS,85) 	 (HCI,62) 	 (BIO1,80)
+Ackroyd --> (BIO1,56) 	 (AR,81)
+Ackroyd --> (TDD,83) 	 (RTN,62) 	 (NIP,85) 	 (INF1-CG,52)
+Ackroyd --> (IJP,46) 	 (ES,46)
+Ackroyd --> (COPT,97)	
+Ackroyd --> (CCN,80) 	 (ANLP,52) 	 (ADBS,94)
+Ackroyd --> (SLIP,52) 	 (IAML,98)
+Ackroyd --> (IJP,70) 	 (CT,80)
+Ackroyd --> (SLIP,88) 	 (HCI,76) 	 (BIO1,63)
+Ackroyd --> (CT,77) 	 (ASR,81) 	 (ADS,73) 	 (ADBS,46)
+Ackroyd --> (ANLP,54)	
+Ackroyd --> (SLIP,92)	
+Ackroyd --> (TTS,78) 	 (TDD,52) 	 (DAPA,43)
+Ackroyd --> (ABS,54)	
+Ackroyd -->	
+Ackroyd --> (TTS,67) 	 (IRR,90)
+Ackroyd --> (IRR,90)	
+Ackroyd --> (IRR,100) 	 (AR,91)
+Ackroyd --> (BIO2,46)	
+Ackroyd --> (ADBS,66)	
+Ackroyd --> (ADBS,52)	
+Ackroyd --> (COPT,100) 	 (BIO1,41)
+Ackroyd -->	
+Ackroyd --> (TTS,50) 	 (COC,46) 	 (ADBS,53)
+Ackroyd --> (IJP,56) 	 (AGTA,53)
+Ackroyd --> (AV,46)	
+Ackroyd --> (IRP,73)	
+Ackroyd --> (RTN,67) 	 (ANLP,91) 	 (ADS,85)
+Ackroyd --> (COC,74) 	 (AV,54)
+Ackroyd --> (EXC,97) 	 (DISS,50) 	 (ASR,53)
+Ackroyd --> (IRP,48) 	 (INF1-CG,69)
+Ackroyd -->	
+Ackroyd --> (NIP,88)	
+Ackroyd -->	
+Ackroyd --> (SLIP,100)	
+Ackroyd --> (EXC,72)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADBS,47)	
+Ackroyd --> (INF1-CG,97)	
+Ackroyd --> (TTS,68) 	 (COC,97) 	 (ADS,75)
+Ackroyd --> (COPT,84)	
+Ackroyd --> (BIO2,56)	
+Ackroyd -->	
+Ackroyd --> (ABS,51)	
+Ackroyd --> (DMR,71)	
+Ackroyd --> (IRR,73) 	 (INF2D,41) 	 (INF1-CG,100) 	 (ANLP,63) 	 (ADBS,89)
+Ackroyd --> (SLIP,46) 	 (DAPA,89) 	 (CT,92)
+Ackroyd --> (TTS,52) 	 (DISS,53) 	 (ADS,43) 	 (ABS,68)
+Ackroyd -->	
+Ackroyd --> (EXC,44) 	 (ANLP,61)
+Ackroyd -->	
+Ackroyd --> (BIO2,56)	
+Ackroyd --> (TTS,77) 	 (CT,66) 	 (AR,53) 	 (ANLP,53)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF1-CG,85) 	 (ES,81)
+Ackroyd --> (CCN,41) 	 (AR,53)
+Ackroyd -->	
+Ackroyd --> (PM,75) 	 (INF1-CG,72)
+Ackroyd --> (TTS,58)	
+Ackroyd --> (INF1-CG,41) 	 (BIO2,64)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TTS,100)	
+Ackroyd --> (ES,82)	
+Ackroyd -->	
+Ackroyd --> (IRR,47)	
+Ackroyd -->	
+Ackroyd --> (SLIP,50)	
+Ackroyd --> (INF2D,63) 	 (DAPA,70)
+Ackroyd --> (PM,76)	
+Ackroyd --> (IAML,99)	
+Ackroyd --> (INF2D,70)	
+Ackroyd --> (ADS,91)	
+Ackroyd --> (DISS,56)	
+Ackroyd --> (HCI,53) 	 (BIO1,67)
+Ackroyd --> (RTN,42) 	 (IJP,94) 	 (BIO1,79)
+Ackroyd --> (TTS,88) 	 (ES,56)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TDD,74) 	 (IJP,81)
+Ackroyd -->	
+Ackroyd --> (ADS,94)	
+Ackroyd --> (TDD,96) 	 (SLIP,52) 	 (IRR,81)
+Ackroyd --> (ADBS,46)	
+Ackroyd --> (TDD,82) 	 (ANLP,53)
+Ackroyd --> (RTN,100) 	 (PM,78)
+Ackroyd -->	
+Ackroyd --> (COC,79)	
+Ackroyd --> (TDD,95) 	 (PM,73)
+Ackroyd -->	
+Ackroyd --> (DMR,44)	
+Ackroyd -->	
+Ackroyd --> (ABS,100)	
+Ackroyd --> (ASR,66) 	 (ADS,54)
+Ackroyd --> (CCN,40)	
+Ackroyd --> (INF2D,70) 	 (DMR,61)
+Ackroyd --> (HCI,90)	
+Ackroyd --> (COPT,65) 	 (AR,55) 	 (ADBS,97)
+Ackroyd --> (IJP,43) 	 (ADBS,100) 	 (ABS,77)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (EXC,85)	
+Ackroyd -->	
+Ackroyd --> (PPLS,94) 	 (NIP,76)
+Ackroyd --> (DMR,83)	
+Ackroyd -->	
+Ackroyd --> (TTS,52) 	 (ASR,78)
+Ackroyd --> (RTN,47)	
+Ackroyd --> (ASR,60) 	 (ADBS,90) 	 (ABS,88)
+Ackroyd --> (HCI,99) 	 (EXC,65)
+Ackroyd --> (INF1-CG,85) 	 (COPT,77)
+Ackroyd --> (ES,78)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (RTN,53)	
+Ackroyd --> (BIO2,96)	
+Ackroyd --> (TTS,92) 	 (IAML,63) 	 (DISS,44)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (BIO1,90)	
+Ackroyd -->	
+Ackroyd --> (PPLS,88) 	 (INF2D,97)
+Ackroyd --> (DAPA,65) 	 (CT,73) 	 (COC,64)
+Ackroyd -->	
+Ackroyd --> (DAPA,47)	
+Ackroyd --> (INF2D,56) 	 (AV,65)
+Ackroyd --> (RTN,55) 	 (DISS,84)
+Ackroyd -->	
+Ackroyd --> (SLIP,65) 	 (RTN,88) 	 (ANLP,100)
+Ackroyd --> (TDD,81) 	 (BIO1,57)
+Ackroyd -->	
+Ackroyd --> (DAPA,88) 	 (BIO1,59)
+Ackroyd -->	
+Ackroyd --> (ADBS,48)	
+Ackroyd -->	
+Ackroyd --> (COC,41)	
+Ackroyd --> (TTS,82)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DAPA,74)	
+Ackroyd --> (ES,73)	
+Ackroyd --> (DMR,50)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IAML,99) 	 (CCN,61)
+Ackroyd -->	
+Ackroyd --> (TDD,87) 	 (RTN,42) 	 (AGTA,79)
+Ackroyd -->	
+Ackroyd --> (SLIP,62) 	 (NIP,63) 	 (IRR,45)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF1-CG,86)	
+Ackroyd --> (AV,73)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TTS,93)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IJP,72)	
+Ackroyd -->	
+Ackroyd --> (INF1-CG,56) 	 (CCN,73)
+Ackroyd --> (INF1-CG,87)	
+Ackroyd --> (PM,75) 	 (NIP,67)
+Ackroyd --> (HCI,66)	
+Ackroyd --> (PM,77)	
+Ackroyd --> (IRP,68)	
+Ackroyd --> (INF1-CG,43)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,69) 	 (IRP,57) 	 (ANLP,69)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TTS,74) 	 (INF2D,49)
+Ackroyd --> (HCI,49)	
+Ackroyd --> (TTS,90)	
+Ackroyd --> (AR,64)	
+Ackroyd -->	
+Ackroyd --> (PM,97)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ASR,80)	
+Ackroyd -->	
+Ackroyd --> (PM,87) 	 (NIP,47) 	 (AR,60)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (BIO1,54)	
+Ackroyd -->	
+Ackroyd --> (IJP,85)	
+Ackroyd -->	
+Ackroyd --> (AR,97)	
+Ackroyd --> (SLIP,57)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,94)	
+Ackroyd --> (COPT,53)	
+Ackroyd -->	
+Ackroyd --> (IJP,82)	
+Ackroyd -->	
+Ackroyd --> (ABS,88)	
+Ackroyd --> (DMR,56)	
+Ackroyd -->	
+Ackroyd --> (IAML,49) 	 (ASR,90) 	 (ADS,84)
+Ackroyd -->	
+Ackroyd --> (BIO1,71)	
+Ackroyd -->	
+Ackroyd --> (AGTA,70)	
+Ackroyd --> (INF1-CG,81) 	 (AR,40)
+Ackroyd --> (AGTA,48)	
+Ackroyd -->	
+Ackroyd --> (DISS,62)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF2D,87)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF1-CG,56) 	 (AR,94)
+Ackroyd --> (AR,52)	
+Ackroyd --> (NIP,62) 	 (IRP,83) 	 (COPT,74)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADS,69)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DAPA,46)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TDD,63)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,98) 	 (BIO2,88)
+Ackroyd --> (IRR,72)	
+Ackroyd --> (BIO2,61)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (AR,91)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (NIP,54)	
+Ackroyd -->	
+Ackroyd --> (EXC,50)	
+Ackroyd --> (AGTA,73)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (BIO1,60)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IAML,81)	
+Ackroyd --> (TTS,72)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TTS,89)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IJP,41)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ASR,93)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TTS,86)	
+Ackroyd -->	
+Ackroyd --> (RTN,41)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DAPA,41)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF1-CG,67)	
+Ackroyd --> (NIP,44)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (HCI,94)	
+Ackroyd --> (ADS,61)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,48) 	 (RTN,84) 	 (DMR,59) 	 (DISS,89) 	 (COPT,75) 	 (ADS,50)
+Ackroyd --> (INF1-CG,50) 	 (HCI,82) 	 (ASR,94)
+Ackroyd --> (IRR,78) 	 (IRP,51) 	 (IAML,55) 	 (HCI,54) 	 (EXC,83) 	 (ADS,44)
+Ackroyd --> (PPLS,59) 	 (DMR,83) 	 (BIO1,65) 	 (ADS,79)
+Ackroyd --> (TDD,80) 	 (PM,85) 	 (NIP,82) 	 (IAML,45) 	 (HCI,65) 	 (DAPA,96) 	 (BIO2,85) 	 (AV,47) 	 (ASR,64)
+Ackroyd --> (IRP,56) 	 (IJP,49) 	 (CT,57)
+Ackroyd --> (SLIP,53) 	 (NIP,53) 	 (HCI,49)
+Ackroyd --> (PM,93) 	 (IRR,76) 	 (AR,55)
+Ackroyd --> (TTS,100) 	 (IJP,50) 	 (DAPA,93) 	 (CCN,58) 	 (AV,94) 	 (ASR,95)
+Ackroyd --> (IRR,81) 	 (INF2D,69)
+Ackroyd --> (RTN,52) 	 (CCN,70) 	 (AR,60) 	 (AGTA,46) 	 (ABS,85)
+Ackroyd --> (TDD,60) 	 (IRR,40) 	 (IAML,61) 	 (AR,65)
+Ackroyd --> (RTN,85) 	 (IAML,69) 	 (DAPA,67) 	 (BIO1,84) 	 (AV,47) 	 (ANLP,49)
+Ackroyd --> (TDD,72) 	 (EXC,42) 	 (DMR,71)
+Ackroyd --> (RTN,92) 	 (PPLS,46) 	 (ES,59) 	 (DMR,43)
+Ackroyd --> (TDD,81) 	 (INF2D,73) 	 (COPT,82) 	 (ABS,72)
+Ackroyd --> (HCI,79) 	 (CT,40) 	 (BIO2,43)
+Ackroyd --> (TTS,93) 	 (COPT,40) 	 (ASR,81)
+Ackroyd --> (IRR,80) 	 (AR,86)
+Ackroyd --> (IAML,97)	
+Ackroyd --> (IRR,53) 	 (CCN,57)
+Ackroyd --> (INF2D,62)	
+Ackroyd --> (HCI,86) 	 (BIO2,74) 	 (ASR,42)
+Ackroyd --> (IAML,68) 	 (EXC,75) 	 (BIO1,44)
+Ackroyd --> (TTS,75) 	 (PPLS,59) 	 (COC,47) 	 (BIO2,83) 	 (ADBS,48)
+Ackroyd --> (BIO2,86) 	 (ASR,93)
+Ackroyd --> (NIP,84) 	 (EXC,67) 	 (DAPA,88) 	 (AR,81)
+Ackroyd --> (COPT,88) 	 (COC,42) 	 (AV,42) 	 (ASR,73)
+Ackroyd --> (TTS,43) 	 (INF2D,98) 	 (DISS,86) 	 (CT,41)
+Ackroyd --> (IRR,81) 	 (IAML,66) 	 (ES,83) 	 (DISS,45) 	 (CCN,89) 	 (BIO1,46)
+Ackroyd --> (PM,75) 	 (CT,94)
+Ackroyd --> (TTS,51) 	 (PM,61) 	 (IJP,41) 	 (CT,89) 	 (BIO1,89) 	 (AV,62) 	 (AR,57)
+Ackroyd --> (PPLS,59) 	 (IRR,81) 	 (IAML,76) 	 (AR,66) 	 (ADS,100)
+Ackroyd --> (IJP,64) 	 (ABS,94)
+Ackroyd --> (SLIP,94) 	 (AR,40) 	 (ADBS,80)
+Ackroyd --> (IRP,96)	
+Ackroyd --> (INF1-CG,70)	
+Ackroyd --> (PM,67) 	 (INF2D,45) 	 (INF1-CG,51)
+Ackroyd --> (BIO2,67)	
+Ackroyd --> (TDD,76) 	 (PM,42) 	 (CT,64)
+Ackroyd --> (INF1-CG,68) 	 (DMR,92) 	 (ADS,48)
+Ackroyd --> (HCI,98) 	 (DMR,73)
+Ackroyd --> (RTN,73)	
+Ackroyd --> (TTS,42) 	 (IRP,62) 	 (IJP,46) 	 (DMR,67) 	 (AR,78)
+Ackroyd -->	
+Ackroyd --> (INF1-CG,44) 	 (COPT,99)
+Ackroyd --> (TTS,94) 	 (ASR,83)
+Ackroyd --> (IJP,80) 	 (DISS,90) 	 (ADS,48)
+Ackroyd --> (EXC,65) 	 (ANLP,66)
+Ackroyd --> (TTS,73) 	 (SLIP,94) 	 (ABS,49)
+Ackroyd --> (ANLP,50)	
+Ackroyd -->	
+Ackroyd --> (TTS,97) 	 (EXC,57)
+Ackroyd --> (IRR,93) 	 (COPT,77)
+Ackroyd --> (PM,48) 	 (AGTA,62)
+Ackroyd --> (TTS,86) 	 (IRP,100)
+Ackroyd --> (AR,88) 	 (ABS,71)
+Ackroyd --> (PPLS,61) 	 (CT,82)
+Ackroyd --> (BIO1,47)	
+Ackroyd --> (IAML,90)	
+Ackroyd --> (TDD,68) 	 (AGTA,54)
+Ackroyd --> (ABS,53)	
+Ackroyd --> (IRR,82)	
+Ackroyd --> (SLIP,48)	
+Ackroyd -->	
+Ackroyd --> (HCI,64) 	 (BIO1,94)
+Ackroyd --> (HCI,70) 	 (CCN,61)
+Ackroyd --> (COC,44)	
+Ackroyd --> (PPLS,54) 	 (PM,46) 	 (IJP,74) 	 (EXC,97) 	 (ASR,89)
+Ackroyd --> (BIO1,87)	
+Ackroyd --> (SLIP,55)	
+Ackroyd --> (DISS,66)	
+Ackroyd --> (IRP,63) 	 (DISS,64)
+Ackroyd -->	
+Ackroyd --> (EXC,44)	
+Ackroyd --> (TDD,82) 	 (PPLS,82) 	 (IRR,70) 	 (IJP,99) 	 (EXC,79) 	 (CCN,82) 	 (BIO2,43) 	 (ADS,42)
+Ackroyd --> (TTS,61) 	 (COPT,66) 	 (BIO2,81)
+Ackroyd --> (COC,54)	
+Ackroyd --> (TTS,86) 	 (IRP,60) 	 (INF1-CG,54)
+Ackroyd --> (IAML,79)	
+Ackroyd --> (PPLS,62) 	 (INF2D,56)
+Ackroyd --> (ADBS,73)	
+Ackroyd --> (RTN,97) 	 (EXC,96) 	 (COPT,86) 	 (AR,86)
+Ackroyd --> (IJP,77)	
+Ackroyd --> (CT,99) 	 (CCN,87)
+Ackroyd --> (IAML,44) 	 (CCN,90)
+Ackroyd --> (INF1-CG,65) 	 (IAML,40) 	 (ADBS,56)
+Ackroyd --> (IRP,84) 	 (DMR,79) 	 (DISS,54) 	 (AR,96)
+Ackroyd --> (TDD,58) 	 (COC,47)
+Ackroyd --> (AGTA,98)	
+Ackroyd -->	
+Ackroyd --> (IRP,58)	
+Ackroyd -->	
+Ackroyd --> (PM,74) 	 (COC,49)
+Ackroyd --> (ES,59) 	 (ASR,88)
+Ackroyd --> (BIO1,77)	
+Ackroyd --> (AV,88)	
+Ackroyd --> (BIO2,75)	
+Ackroyd --> (NIP,68) 	 (IJP,64) 	 (IAML,67)
+Ackroyd --> (ES,95) 	 (COC,64) 	 (ABS,56)
+Ackroyd --> (SLIP,44)	
+Ackroyd --> (CT,69) 	 (ASR,54) 	 (AGTA,42)
+Ackroyd --> (HCI,87) 	 (BIO2,94) 	 (AGTA,60)
+Ackroyd --> (ANLP,49) 	 (ADS,60)
+Ackroyd -->	
+Ackroyd --> (BIO1,95)	
+Ackroyd -->	
+Ackroyd --> (TDD,87) 	 (NIP,86)
+Ackroyd --> (HCI,73) 	 (ANLP,83)
+Ackroyd --> (ADBS,74)	
+Ackroyd --> (EXC,94)	
+Ackroyd -->	
+Ackroyd --> (RTN,93)	
+Ackroyd -->	
+Ackroyd --> (RTN,57) 	 (ES,51) 	 (DMR,91) 	 (AV,50)
+Ackroyd --> (DISS,71)	
+Ackroyd --> (IRR,43) 	 (EXC,68) 	 (AGTA,76)
+Ackroyd --> (ABS,76)	
+Ackroyd --> (ADBS,63)	
+Ackroyd --> (NIP,75) 	 (ABS,92)
+Ackroyd --> (DISS,45) 	 (AR,100)
+Ackroyd -->	
+Ackroyd --> (IRR,81)	
+Ackroyd --> (ASR,100) 	 (AR,65)
+Ackroyd --> (SLIP,66)	
+Ackroyd --> (HCI,49) 	 (CT,43) 	 (AGTA,58)
+Ackroyd --> (BIO1,64)	
+Ackroyd --> (PPLS,65) 	 (COPT,95) 	 (ADBS,48)
+Ackroyd --> (INF2D,58) 	 (DAPA,87) 	 (COPT,85)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (AV,75)	
+Ackroyd -->	
+Ackroyd --> (AGTA,52)	
+Ackroyd -->	
+Ackroyd --> (IJP,43)	
+Ackroyd --> (PPLS,42)	
+Ackroyd --> (BIO2,87)	
+Ackroyd --> (RTN,63) 	 (AR,91)
+Ackroyd --> (HCI,72)	
+Ackroyd --> (PM,79)	
+Ackroyd --> (PPLS,79)	
+Ackroyd --> (INF2D,95)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (COC,74) 	 (AGTA,85)
+Ackroyd -->	
+Ackroyd --> (AGTA,55)	
+Ackroyd --> (RTN,50) 	 (CCN,57)
+Ackroyd --> (NIP,56) 	 (IAML,43) 	 (COC,65) 	 (AV,80)
+Ackroyd --> (RTN,88) 	 (NIP,61) 	 (DMR,40)
+Ackroyd -->	
+Ackroyd --> (AGTA,79)	
+Ackroyd -->	
+Ackroyd --> (IAML,99)	
+Ackroyd --> (ES,89)	
+Ackroyd --> (PPLS,44) 	 (HCI,86) 	 (DMR,40) 	 (BIO2,73) 	 (ANLP,50)
+Ackroyd --> (IRR,86) 	 (AGTA,66)
+Ackroyd --> (SLIP,59) 	 (ES,57) 	 (DISS,56) 	 (CT,64)
+Ackroyd --> (ANLP,74)	
+Ackroyd --> (HCI,76) 	 (ABS,94)
+Ackroyd --> (SLIP,97) 	 (ANLP,71)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (AV,48)	
+Ackroyd --> (RTN,91)	
+Ackroyd --> (HCI,44)	
+Ackroyd --> (DISS,87)	
+Ackroyd --> (PM,47)	
+Ackroyd --> (COPT,62)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADS,56)	
+Ackroyd --> (RTN,53) 	 (ANLP,49)
+Ackroyd --> (COPT,92) 	 (ABS,67)
+Ackroyd --> (BIO2,41)	
+Ackroyd --> (TTS,58) 	 (NIP,64)
+Ackroyd -->	
+Ackroyd --> (PM,61) 	 (IRP,85) 	 (IAML,44)
+Ackroyd --> (PM,79) 	 (INF2D,71)
+Ackroyd -->	
+Ackroyd --> (COC,70) 	 (AR,60)
+Ackroyd --> (AR,79)	
+Ackroyd --> (RTN,40) 	 (ADBS,54)
+Ackroyd --> (TTS,44) 	 (SLIP,51) 	 (IAML,76)
+Ackroyd -->	
+Ackroyd --> (TTS,75) 	 (COC,50) 	 (ADS,43)
+Ackroyd --> (COC,43)	
+Ackroyd --> (INF1-CG,52)	
+Ackroyd -->	
+Ackroyd --> (PM,47) 	 (INF2D,85)
+Ackroyd -->	
+Ackroyd --> (SLIP,75) 	 (NIP,86) 	 (IRR,55) 	 (DISS,67)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ES,54) 	 (AV,68)
+Ackroyd --> (ABS,63)	
+Ackroyd --> (SLIP,47) 	 (COPT,100)
+Ackroyd --> (ES,46) 	 (CT,44)
+Ackroyd --> (TDD,90) 	 (ADS,40)
+Ackroyd -->	
+Ackroyd --> (CCN,98)	
+Ackroyd --> (PM,72) 	 (ADBS,78)
+Ackroyd --> (PPLS,97)	
+Ackroyd -->	
+Ackroyd --> (SLIP,78)	
+Ackroyd -->	
+Ackroyd --> (NIP,100) 	 (ADS,72)
+Ackroyd --> (BIO1,63)	
+Ackroyd --> (RTN,62) 	 (PM,82)
+Ackroyd --> (PPLS,99)	
+Ackroyd --> (RTN,96) 	 (IJP,87)
+Ackroyd -->	
+Ackroyd --> (TDD,90) 	 (IRR,77)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ES,51)	
+Ackroyd --> (DAPA,85)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (RTN,58) 	 (COC,78) 	 (AR,90)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IRP,89) 	 (CCN,99) 	 (ADS,76)
+Ackroyd --> (IAML,41)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (NIP,47)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,59) 	 (DAPA,40) 	 (ABS,100)
+Ackroyd --> (DAPA,94)	
+Ackroyd --> (EXC,57)	
+Ackroyd -->	
+Ackroyd --> (COPT,66)	
+Ackroyd --> (INF1-CG,74)	
+Ackroyd --> (ASR,52)	
+Ackroyd --> (TDD,58)	
+Ackroyd --> (IRR,86)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (AGTA,54)	
+Ackroyd --> (ADS,65)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IJP,82)	
+Ackroyd -->	
+Ackroyd --> (ES,89)	
+Ackroyd -->	
+Ackroyd --> (BIO2,45) 	 (AGTA,41)
+Ackroyd --> (DMR,69)	
+Ackroyd --> (INF1-CG,57)	
+Ackroyd --> (INF1-CG,59) 	 (AV,73)
+Ackroyd -->	
+Ackroyd --> (BIO1,60)	
+Ackroyd --> (AR,93)	
+Ackroyd -->	
+Ackroyd --> (PPLS,81) 	 (EXC,88)
+Ackroyd --> (IJP,78)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (NIP,69)	
+Ackroyd --> (ASR,95)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADBS,77)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IJP,41)	
+Ackroyd --> (ASR,77)	
+Ackroyd -->	
+Ackroyd --> (CCN,100)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TDD,79)	
+Ackroyd -->	
+Ackroyd --> (TTS,98)	
+Ackroyd --> (RTN,81)	
+Ackroyd --> (NIP,80)	
+Ackroyd --> (PM,71)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (CT,98)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (BIO1,53)	
+Ackroyd -->	
+Ackroyd --> (COC,67)	
+Ackroyd --> (SLIP,70)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,97) 	 (ANLP,96)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (RTN,41) 	 (BIO2,75)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DMR,73)	
+Ackroyd --> (COC,78)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF1-CG,88)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ASR,72)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TDD,62) 	 (ADBS,89)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADBS,90)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (BIO2,85)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DMR,76)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (BIO1,62) 	 (ABS,89)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF1-CG,44)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (CCN,41)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ANLP,41)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TDD,58) 	 (IRP,44) 	 (DMR,73) 	 (CT,75) 	 (BIO2,86) 	 (ASR,51) 	 (ANLP,93)
+Ackroyd --> (INF2D,70) 	 (ES,79) 	 (DMR,41) 	 (COC,66) 	 (BIO2,82) 	 (AV,47) 	 (ANLP,76)
+Ackroyd --> (PPLS,86) 	 (ES,79) 	 (COPT,47) 	 (ASR,68) 	 (ADBS,76)
+Ackroyd --> (TTS,64) 	 (TDD,77) 	 (PPLS,95) 	 (PM,97) 	 (IRR,45) 	 (IJP,98) 	 (IAML,72) 	 (DAPA,48) 	 (COC,65) 	 (AV,66) 	 (ANLP,74)
+Ackroyd --> (IRP,97) 	 (DMR,49) 	 (COPT,87) 	 (ADBS,68)
+Ackroyd --> (EXC,75) 	 (DISS,61) 	 (BIO1,60) 	 (ASR,66) 	 (ANLP,44) 	 (ADBS,58)
+Ackroyd --> (TTS,45) 	 (IJP,65) 	 (EXC,57) 	 (COC,47) 	 (AGTA,56)
+Ackroyd --> (SLIP,92) 	 (EXC,53) 	 (CT,84) 	 (COC,70) 	 (BIO1,100) 	 (ANLP,73)
+Ackroyd --> (ABS,89)	
+Ackroyd --> (TTS,56) 	 (TDD,47) 	 (PM,73) 	 (IRP,100) 	 (CT,42) 	 (COC,68) 	 (AGTA,87)
+Ackroyd --> (TTS,47) 	 (BIO1,94)
+Ackroyd --> (TDD,45) 	 (IRP,66) 	 (DAPA,45) 	 (COPT,75) 	 (CCN,41)
+Ackroyd --> (TTS,69) 	 (PPLS,40) 	 (IRP,76) 	 (DMR,58) 	 (DAPA,54) 	 (CCN,99) 	 (AGTA,76)
+Ackroyd --> (COPT,53) 	 (BIO2,87) 	 (AV,90)
+Ackroyd --> (DAPA,64)	
+Ackroyd --> (COPT,71)	
+Ackroyd --> (TDD,58) 	 (RTN,56) 	 (PM,57) 	 (IRP,67) 	 (IJP,57) 	 (HCI,53) 	 (AV,42)
+Ackroyd --> (IRP,74)	
+Ackroyd --> (NIP,81) 	 (ASR,67)
+Ackroyd --> (DMR,59) 	 (CT,50) 	 (ANLP,44) 	 (ABS,88)
+Ackroyd --> (IAML,64) 	 (BIO2,94) 	 (AV,96)
+Ackroyd --> (TTS,78) 	 (CT,50) 	 (ADBS,67)
+Ackroyd --> (NIP,63) 	 (IRR,85) 	 (BIO2,42) 	 (AR,43)
+Ackroyd --> (IRP,96) 	 (EXC,83) 	 (BIO1,90) 	 (ASR,94)
+Ackroyd --> (INF2D,51) 	 (DAPA,79) 	 (AV,56)
+Ackroyd --> (PPLS,47) 	 (IRP,96) 	 (INF2D,69) 	 (ASR,73) 	 (ADBS,78)
+Ackroyd --> (TTS,68) 	 (DISS,59)
+Ackroyd --> (CT,77) 	 (BIO1,57) 	 (AV,52) 	 (AR,42)
+Ackroyd --> (TTS,70) 	 (IAML,77) 	 (ASR,81)
+Ackroyd --> (RTN,61) 	 (CT,51) 	 (BIO2,99)
+Ackroyd --> (TTS,45) 	 (INF1-CG,59) 	 (IJP,84) 	 (COPT,82)
+Ackroyd --> (TTS,57) 	 (IJP,83) 	 (IAML,95) 	 (AGTA,57)
+Ackroyd --> (RTN,80) 	 (PM,68) 	 (NIP,65) 	 (INF1-CG,63) 	 (EXC,65) 	 (ES,78) 	 (COC,57) 	 (ANLP,92)
+Ackroyd --> (IJP,55) 	 (AV,46) 	 (AGTA,81)
+Ackroyd --> (CT,52) 	 (BIO2,85)
+Ackroyd --> (CT,45) 	 (AV,47)
+Ackroyd --> (RTN,69)	
+Ackroyd --> (IRP,73) 	 (INF2D,46) 	 (DAPA,58)
+Ackroyd --> (AGTA,55)	
+Ackroyd --> (SLIP,70) 	 (IJP,93) 	 (HCI,48) 	 (EXC,98) 	 (CCN,56)
+Ackroyd --> (SLIP,75) 	 (IAML,86) 	 (ANLP,86) 	 (AGTA,89)
+Ackroyd --> (TDD,97) 	 (NIP,73) 	 (IRR,56) 	 (IRP,54) 	 (COC,72)
+Ackroyd -->	
+Ackroyd --> (PPLS,84) 	 (BIO2,79) 	 (ADS,70)
+Ackroyd --> (TTS,42) 	 (NIP,51) 	 (IRR,99) 	 (CCN,59)
+Ackroyd -->	
+Ackroyd --> (PPLS,55) 	 (IJP,48)
+Ackroyd -->	
+Ackroyd --> (SLIP,92) 	 (IRR,47) 	 (INF1-CG,59) 	 (COPT,45)
+Ackroyd --> (IAML,85) 	 (ES,60) 	 (BIO2,78) 	 (AV,90)
+Ackroyd --> (NIP,68) 	 (BIO2,67) 	 (ASR,62)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,52) 	 (PPLS,79) 	 (PM,91) 	 (HCI,42) 	 (AR,58)
+Ackroyd --> (IRR,46) 	 (HCI,49) 	 (DISS,74) 	 (BIO1,70) 	 (ANLP,42)
+Ackroyd -->	
+Ackroyd --> (TDD,89) 	 (PM,88)
+Ackroyd --> (INF1-CG,54)	
+Ackroyd --> (IAML,77) 	 (DISS,97)
+Ackroyd --> (SLIP,92) 	 (CT,62) 	 (AGTA,97)
+Ackroyd --> (SLIP,49) 	 (RTN,72) 	 (INF2D,55) 	 (ES,76) 	 (BIO1,78)
+Ackroyd --> (TTS,61) 	 (DMR,87) 	 (COC,56)
+Ackroyd -->	
+Ackroyd --> (TDD,90) 	 (SLIP,99)
+Ackroyd -->	
+Ackroyd --> (ASR,51)	
+Ackroyd --> (ES,47)	
+Ackroyd --> (TDD,72)	
+Ackroyd --> (TDD,86) 	 (IJP,80) 	 (ADS,71)
+Ackroyd -->	
+Ackroyd --> (ABS,79)	
+Ackroyd -->	
+Ackroyd --> (PPLS,65) 	 (COPT,62) 	 (BIO1,91) 	 (ADS,97)
+Ackroyd --> (ADS,72)	
+Ackroyd --> (COPT,62) 	 (CCN,69)
+Ackroyd --> (IAML,75) 	 (DAPA,74) 	 (BIO2,64)
+Ackroyd --> (INF1-CG,44) 	 (ADBS,82)
+Ackroyd --> (TDD,87) 	 (EXC,55)
+Ackroyd --> (ES,62) 	 (DISS,52)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (AR,84)	
+Ackroyd --> (IJP,62) 	 (DAPA,87) 	 (COPT,77) 	 (ABS,40)
+Ackroyd --> (SLIP,67) 	 (INF1-CG,66)
+Ackroyd --> (PPLS,75) 	 (IRR,40)
+Ackroyd --> (CT,54) 	 (CCN,43)
+Ackroyd --> (INF2D,89) 	 (BIO2,64) 	 (BIO1,95)
+Ackroyd --> (PM,48) 	 (AGTA,44)
+Ackroyd --> (INF1-CG,92)	
+Ackroyd --> (IJP,81) 	 (HCI,70)
+Ackroyd --> (BIO1,68)	
+Ackroyd --> (IRP,89) 	 (ASR,56)
+Ackroyd --> (RTN,54) 	 (BIO1,52)
+Ackroyd --> (TTS,85) 	 (ANLP,62)
+Ackroyd --> (AR,98)	
+Ackroyd --> (TTS,40) 	 (DAPA,59)
+Ackroyd -->	
+Ackroyd --> (PM,61) 	 (INF2D,56) 	 (DISS,77) 	 (BIO1,68) 	 (AR,51) 	 (ANLP,92)
+Ackroyd --> (IRR,47)	
+Ackroyd --> (TDD,43) 	 (AR,86)
+Ackroyd --> (PM,84) 	 (INF2D,93) 	 (DISS,54) 	 (ABS,62)
+Ackroyd --> (TTS,68) 	 (HCI,68) 	 (ES,75) 	 (CCN,43)
+Ackroyd --> (DISS,68) 	 (ANLP,61)
+Ackroyd --> (DISS,68)	
+Ackroyd --> (ANLP,84)	
+Ackroyd --> (IAML,54) 	 (HCI,43) 	 (COC,89) 	 (BIO1,87)
+Ackroyd --> (EXC,73) 	 (CT,58)
+Ackroyd --> (RTN,92) 	 (ABS,79)
+Ackroyd --> (CCN,87) 	 (ADS,56)
+Ackroyd --> (IJP,86)	
+Ackroyd --> (TTS,69) 	 (IRR,70) 	 (IAML,75)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF1-CG,72) 	 (COC,55)
+Ackroyd --> (IRR,90) 	 (INF2D,50) 	 (HCI,56)
+Ackroyd --> (ES,89) 	 (DISS,64)
+Ackroyd --> (CCN,45)	
+Ackroyd --> (TTS,81) 	 (AV,61)
+Ackroyd -->	
+Ackroyd --> (INF1-CG,83)	
+Ackroyd --> (IJP,98)	
+Ackroyd --> (IRP,65) 	 (ADS,96)
+Ackroyd -->	
+Ackroyd --> (INF1-CG,92)	
+Ackroyd --> (RTN,71) 	 (ANLP,46)
+Ackroyd --> (COC,41) 	 (ADBS,62)
+Ackroyd --> (INF1-CG,67)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (PM,63)	
+Ackroyd --> (TTS,97) 	 (IRR,62) 	 (INF1-CG,83)
+Ackroyd --> (NIP,95) 	 (COC,54)
+Ackroyd --> (ADS,46)	
+Ackroyd -->	
+Ackroyd --> (BIO2,96)	
+Ackroyd -->	
+Ackroyd --> (PM,57) 	 (DAPA,89) 	 (CCN,94) 	 (ANLP,87)
+Ackroyd -->	
+Ackroyd --> (IAML,67)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ES,41)	
+Ackroyd --> (IRR,79) 	 (DISS,73) 	 (COC,83)
+Ackroyd --> (NIP,58)	
+Ackroyd --> (DMR,84) 	 (COC,63)
+Ackroyd --> (COPT,93) 	 (AV,59)
+Ackroyd --> (IAML,53)	
+Ackroyd -->	
+Ackroyd --> (TTS,82) 	 (BIO2,73)
+Ackroyd --> (DISS,65) 	 (ADS,80)
+Ackroyd --> (EXC,69) 	 (ADBS,48)
+Ackroyd -->	
+Ackroyd --> (TTS,90) 	 (PPLS,64) 	 (INF2D,45)
+Ackroyd -->	
+Ackroyd --> (IRP,60)	
+Ackroyd -->	
+Ackroyd --> (BIO1,64) 	 (AR,64)
+Ackroyd --> (AR,41)	
+Ackroyd --> (NIP,77)	
+Ackroyd --> (TTS,43)	
+Ackroyd -->	
+Ackroyd --> (TDD,63) 	 (COPT,69)
+Ackroyd --> (DISS,75)	
+Ackroyd --> (ANLP,54)	
+Ackroyd --> (ANLP,82)	
+Ackroyd --> (EXC,46)	
+Ackroyd --> (ADS,51)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (AV,77)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TDD,79)	
+Ackroyd -->	
+Ackroyd --> (TTS,55) 	 (RTN,42) 	 (CT,88) 	 (ANLP,94)
+Ackroyd --> (DAPA,70)	
+Ackroyd --> (TDD,56) 	 (IRR,81)
+Ackroyd --> (TTS,63)	
+Ackroyd --> (RTN,95)	
+Ackroyd -->	
+Ackroyd --> (INF1-CG,63)	
+Ackroyd --> (IJP,83)	
+Ackroyd --> (ES,99) 	 (DMR,43) 	 (COC,87)
+Ackroyd -->	
+Ackroyd --> (TTS,55) 	 (IAML,42)
+Ackroyd --> (DAPA,90)	
+Ackroyd --> (COC,89) 	 (AR,92)
+Ackroyd -->	
+Ackroyd --> (PM,62) 	 (INF1-CG,48) 	 (IAML,83) 	 (ES,83) 	 (DAPA,77)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (BIO1,60)	
+Ackroyd --> (TDD,75)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (COC,93)	
+Ackroyd --> (IJP,83) 	 (BIO2,54)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,77)	
+Ackroyd --> (IJP,86)	
+Ackroyd -->	
+Ackroyd --> (COC,74)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (COPT,82) 	 (ASR,62) 	 (AGTA,55)
+Ackroyd --> (AV,83) 	 (AR,83)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (RTN,98)	
+Ackroyd -->	
+Ackroyd --> (COC,95)	
+Ackroyd --> (ADBS,66)	
+Ackroyd --> (BIO2,60)	
+Ackroyd -->	
+Ackroyd --> (HCI,68)	
+Ackroyd -->	
+Ackroyd --> (HCI,95)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADBS,64)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (RTN,97) 	 (DISS,57)
+Ackroyd -->	
+Ackroyd --> (TTS,66)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (BIO2,87)	
+Ackroyd -->	
+Ackroyd --> (INF1-CG,61) 	 (CT,42)
+Ackroyd --> (ANLP,63)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (BIO2,71)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (RTN,98) 	 (CCN,56)
+Ackroyd --> (BIO2,47)	
+Ackroyd --> (ASR,57)	
+Ackroyd --> (ADBS,86)	
+Ackroyd -->	
+Ackroyd --> (TTS,80) 	 (RTN,51) 	 (COPT,49)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,86)	
+Ackroyd --> (TTS,47) 	 (INF1-CG,79)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DMR,51)	
+Ackroyd --> (ABS,74)	
+Ackroyd --> (SLIP,94) 	 (NIP,48)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (BIO2,46)	
+Ackroyd -->	
+Ackroyd --> (RTN,72) 	 (PPLS,41)
+Ackroyd --> (ES,68)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (RTN,43)	
+Ackroyd -->	
+Ackroyd --> (IAML,40)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (PM,46)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (NIP,60)	
+Ackroyd --> (IRP,83) 	 (DISS,85)
+Ackroyd --> (CCN,80)	
+Ackroyd -->	
+Ackroyd --> (NIP,44) 	 (AV,89)
+Ackroyd --> (SLIP,43)	
+Ackroyd -->	
+Ackroyd --> (TDD,72)	
+Ackroyd --> (BIO2,70)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (AV,50)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF2D,71)	
+Ackroyd --> (ADBS,65)	
+Ackroyd --> (NIP,40)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ABS,49)	
+Ackroyd --> (INF2D,62)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ASR,49)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (PPLS,98)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ANLP,95)	
+Ackroyd -->	
+Ackroyd --> (ADBS,75)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,49) 	 (IRP,92) 	 (CCN,90)
+Ackroyd --> (CT,81)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,75)	
+Ackroyd -->	
+Ackroyd --> (COC,84)	
+Ackroyd --> (DISS,86)	
+Ackroyd -->	
+Ackroyd --> (IJP,93)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (CT,68)	
+Ackroyd -->	
+Ackroyd --> (ANLP,76)	
+Ackroyd --> (ADS,66)	
+Ackroyd -->	
+Ackroyd --> (ANLP,55)	
+Ackroyd -->	
+Ackroyd --> (HCI,77)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TTS,52)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF2D,55) 	 (COPT,93)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (BIO2,95)	
+Ackroyd --> (BIO1,42)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IRP,66)	
+Ackroyd --> (CT,64) 	 (ADS,68)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADBS,66)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (SLIP,95) 	 (CCN,78)
+Ackroyd --> (DMR,66)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DISS,59)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DISS,48)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADBS,43)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TTS,93) 	 (PPLS,91) 	 (PM,41) 	 (NIP,84) 	 (IRR,44) 	 (INF2D,95) 	 (HCI,79) 	 (DAPA,66) 	 (COPT,63) 	 (COC,71) 	 (BIO1,48)
+Ackroyd --> (TTS,46) 	 (SLIP,84) 	 (NIP,89) 	 (INF2D,94) 	 (HCI,66) 	 (ES,86) 	 (DAPA,90) 	 (ADS,77)
+Ackroyd --> (INF2D,90) 	 (ASR,54) 	 (AR,74)
+Ackroyd --> (IRP,50) 	 (INF2D,52) 	 (DISS,96) 	 (ADS,94)
+Ackroyd --> (IRR,44) 	 (HCI,41) 	 (ANLP,85)
+Ackroyd --> (TTS,61) 	 (PPLS,51) 	 (IRR,42) 	 (HCI,55) 	 (COPT,54) 	 (CCN,43) 	 (BIO2,88)
+Ackroyd --> (BIO1,89) 	 (AGTA,91) 	 (ADS,42)
+Ackroyd --> (PM,100) 	 (INF1-CG,82) 	 (ES,49) 	 (DISS,43)
+Ackroyd --> (TDD,50) 	 (IJP,66) 	 (ABS,52)
+Ackroyd --> (TTS,42) 	 (RTN,79) 	 (IRR,82) 	 (COPT,74) 	 (AR,63) 	 (ADBS,40)
+Ackroyd --> (IRP,45) 	 (INF2D,60)
+Ackroyd --> (IAML,99) 	 (EXC,78) 	 (CT,91) 	 (ASR,70) 	 (AR,59) 	 (ADS,40)
+Ackroyd --> (PPLS,75)	
+Ackroyd --> (RTN,60) 	 (IJP,93) 	 (DMR,93)
+Ackroyd --> (IRR,55) 	 (IAML,63) 	 (AR,55) 	 (AGTA,78)
+Ackroyd --> (INF2D,47) 	 (AR,61) 	 (ANLP,72)
+Ackroyd --> (BIO1,89) 	 (AGTA,96)
+Ackroyd --> (CT,41) 	 (COC,88) 	 (AGTA,64)
+Ackroyd --> (RTN,53) 	 (ADBS,79)
+Ackroyd -->	
+Ackroyd --> (NIP,72) 	 (INF2D,40) 	 (AR,96)
+Ackroyd --> (INF1-CG,77) 	 (DAPA,80)
+Ackroyd --> (DMR,45) 	 (CCN,96) 	 (ASR,99)
+Ackroyd --> (AV,77)	
+Ackroyd --> (CT,73) 	 (COC,79)
+Ackroyd --> (RTN,94) 	 (PPLS,83) 	 (AV,80)
+Ackroyd --> (RTN,41) 	 (AV,56)
+Ackroyd --> (SLIP,71) 	 (NIP,49) 	 (AV,44)
+Ackroyd --> (HCI,45) 	 (COC,94) 	 (AV,97)
+Ackroyd -->	
+Ackroyd --> (SLIP,91) 	 (RTN,51) 	 (PPLS,61) 	 (HCI,79) 	 (DISS,61) 	 (DAPA,79) 	 (AR,86)
+Ackroyd --> (EXC,49) 	 (CT,77) 	 (AR,93) 	 (AGTA,72)
+Ackroyd -->	
+Ackroyd --> (TTS,100) 	 (TDD,69) 	 (DAPA,56)
+Ackroyd --> (RTN,52) 	 (PM,75) 	 (CT,90)
+Ackroyd --> (TTS,49) 	 (DAPA,92)
+Ackroyd --> (PPLS,74) 	 (DISS,92) 	 (COC,91) 	 (ADBS,48)
+Ackroyd --> (TDD,69)	
+Ackroyd --> (SLIP,42) 	 (INF1-CG,49) 	 (ANLP,94) 	 (AGTA,50) 	 (ADS,60)
+Ackroyd --> (ES,85) 	 (ADS,41)
+Ackroyd --> (HCI,68) 	 (CCN,90) 	 (BIO2,83)
+Ackroyd --> (INF1-CG,61)	
+Ackroyd --> (EXC,100) 	 (ES,52)
+Ackroyd --> (IRR,68) 	 (INF2D,85) 	 (DISS,78) 	 (CT,62) 	 (AR,83)
+Ackroyd --> (ES,72) 	 (ABS,97)
+Ackroyd --> (NIP,60) 	 (CT,56) 	 (COC,47)
+Ackroyd --> (COPT,79)	
+Ackroyd --> (IJP,78) 	 (ES,94) 	 (AV,66)
+Ackroyd --> (NIP,72)	
+Ackroyd --> (NIP,92)	
+Ackroyd --> (IJP,49) 	 (AGTA,83)
+Ackroyd --> (IRR,55) 	 (BIO1,40) 	 (ANLP,76)
+Ackroyd --> (NIP,97) 	 (CT,59) 	 (ABS,69)
+Ackroyd -->	
+Ackroyd --> (ES,52) 	 (DISS,40)
+Ackroyd --> (CCN,75)	
+Ackroyd --> (TTS,75) 	 (TDD,70) 	 (DISS,45) 	 (AR,54)
+Ackroyd -->	
+Ackroyd --> (IRR,96) 	 (ANLP,60)
+Ackroyd --> (SLIP,50) 	 (COC,42)
+Ackroyd -->	
+Ackroyd --> (HCI,69) 	 (AV,89) 	 (ABS,58)
+Ackroyd --> (IRR,81) 	 (HCI,88)
+Ackroyd --> (INF2D,57) 	 (AGTA,94)
+Ackroyd --> (IRP,90) 	 (EXC,63)
+Ackroyd -->	
+Ackroyd --> (IAML,97)	
+Ackroyd --> (AV,94) 	 (AR,70)
+Ackroyd -->	
+Ackroyd --> (INF1-CG,97) 	 (ADBS,59)
+Ackroyd --> (ANLP,100)	
+Ackroyd --> (TTS,49)	
+Ackroyd --> (IRP,52) 	 (AV,40)
+Ackroyd --> (ANLP,48)	
+Ackroyd --> (SLIP,94) 	 (IRR,76) 	 (DAPA,94)
+Ackroyd --> (IRR,88)	
+Ackroyd --> (RTN,87)	
+Ackroyd --> (IAML,76)	
+Ackroyd --> (EXC,74)	
+Ackroyd --> (ABS,76)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TDD,47) 	 (RTN,77)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF2D,78)	
+Ackroyd --> (IJP,40) 	 (AV,79)
+Ackroyd --> (CT,96)	
+Ackroyd --> (NIP,77) 	 (ABS,62)
+Ackroyd --> (TTS,44)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADS,67)	
+Ackroyd --> (RTN,45) 	 (DAPA,95) 	 (AV,49)
+Ackroyd --> (IRR,69)	
+Ackroyd --> (COPT,69) 	 (AR,60)
+Ackroyd --> (AGTA,62)	
+Ackroyd -->	
+Ackroyd --> (PM,83) 	 (COPT,95)
+Ackroyd -->	
+Ackroyd --> (CT,71)	
+Ackroyd --> (ABS,99)	
+Ackroyd --> (TDD,90)	
+Ackroyd -->	
+Ackroyd --> (IJP,70) 	 (DAPA,85)
+Ackroyd --> (EXC,70) 	 (AGTA,40) 	 (ABS,46)
+Ackroyd --> (ES,93)	
+Ackroyd -->	
+Ackroyd --> (IJP,68)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TTS,47) 	 (TDD,79) 	 (PM,63)
+Ackroyd -->	
+Ackroyd --> (BIO1,56)	
+Ackroyd --> (NIP,52)	
+Ackroyd -->	
+Ackroyd --> (ADBS,87)	
+Ackroyd --> (IAML,85) 	 (ASR,60) 	 (ADS,77)
+Ackroyd -->	
+Ackroyd --> (ABS,46)	
+Ackroyd --> (HCI,71)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (EXC,92) 	 (AR,81)
+Ackroyd --> (PM,47)	
+Ackroyd --> (IJP,50) 	 (HCI,69)
+Ackroyd --> (SLIP,83)	
+Ackroyd -->	
+Ackroyd --> (SLIP,48) 	 (COC,52)
+Ackroyd -->	
+Ackroyd --> (ADBS,43)	
+Ackroyd --> (TTS,62) 	 (HCI,74)
+Ackroyd --> (NIP,98) 	 (COPT,65) 	 (BIO2,57)
+Ackroyd --> (IRP,60) 	 (COC,95) 	 (ADBS,87)
+Ackroyd --> (RTN,73) 	 (IRP,63) 	 (DMR,47)
+Ackroyd --> (BIO2,82)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (CT,54) 	 (BIO2,92)
+Ackroyd -->	
+Ackroyd --> (CT,100)	
+Ackroyd --> (BIO2,75)	
+Ackroyd --> (CT,53)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TDD,77) 	 (AR,42)
+Ackroyd -->	
+Ackroyd --> (INF2D,51)	
+Ackroyd --> (IRR,81) 	 (DAPA,40)
+Ackroyd -->	
+Ackroyd --> (COPT,48)	
+Ackroyd -->	
+Ackroyd --> (AV,43)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DISS,73)	
+Ackroyd --> (ADS,42)	
+Ackroyd -->	
+Ackroyd --> (AV,86)	
+Ackroyd --> (IJP,74) 	 (ANLP,53)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (COC,86)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF2D,90)	
+Ackroyd --> (ADBS,95)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (RTN,76)	
+Ackroyd --> (NIP,77)	
+Ackroyd --> (COC,95)	
+Ackroyd --> (SLIP,87) 	 (CCN,77)
+Ackroyd --> (TDD,70) 	 (AR,41)
+Ackroyd --> (TDD,61)	
+Ackroyd --> (ASR,79)	
+Ackroyd --> (DAPA,43)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (PM,84)	
+Ackroyd --> (INF1-CG,82) 	 (ABS,98)
+Ackroyd --> (INF2D,98)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TDD,66) 	 (NIP,79)
+Ackroyd --> (BIO2,59)	
+Ackroyd --> (BIO2,49) 	 (ADS,54)
+Ackroyd --> (INF2D,66) 	 (ADBS,90)
+Ackroyd --> (DMR,84) 	 (BIO2,45)
+Ackroyd -->	
+Ackroyd --> (TTS,99)	
+Ackroyd -->	
+Ackroyd --> (PPLS,94)	
+Ackroyd --> (TTS,85) 	 (DAPA,97)
+Ackroyd --> (ANLP,63)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TTS,56) 	 (IRP,92) 	 (ADBS,88)
+Ackroyd -->	
+Ackroyd --> (IAML,43)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (RTN,52) 	 (IRP,40) 	 (ADS,47)
+Ackroyd --> (NIP,75) 	 (COC,55)
+Ackroyd --> (RTN,78)	
+Ackroyd -->	
+Ackroyd --> (SLIP,40)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IRP,69)	
+Ackroyd --> (INF1-CG,60) 	 (AR,49)
+Ackroyd -->	
+Ackroyd --> (EXC,82) 	 (ANLP,84)
+Ackroyd --> (IRR,75) 	 (IAML,89)
+Ackroyd -->	
+Ackroyd --> (COC,83)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IRR,42) 	 (ASR,73)
+Ackroyd -->	
+Ackroyd --> (NIP,77) 	 (BIO2,75)
+Ackroyd -->	
+Ackroyd --> (ES,79)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DMR,96)	
+Ackroyd --> (ADS,84)	
+Ackroyd --> (AV,99)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ES,85) 	 (AR,76)
+Ackroyd -->	
+Ackroyd --> (RTN,53)	
+Ackroyd --> (ABS,47)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IJP,88)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DISS,67)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (AGTA,57)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (PPLS,66) 	 (BIO1,51)
+Ackroyd --> (DMR,84) 	 (COC,60)
+Ackroyd -->	
+Ackroyd --> (ASR,53)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ANLP,96)	
+Ackroyd -->	
+Ackroyd --> (IRR,52)	
+Ackroyd --> (DMR,94) 	 (ADBS,56)
+Ackroyd --> (ASR,76)	
+Ackroyd -->	
+Ackroyd --> (PM,89)	
+Ackroyd --> (AGTA,72)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DISS,74)	
+Ackroyd --> (EXC,56)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (PM,48)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (EXC,77)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (COC,66)	
+Ackroyd -->	
+Ackroyd --> (IAML,71)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (COC,92)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IAML,75)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ADBS,78)	
+Ackroyd --> (DMR,87)	
+Ackroyd --> (TTS,91) 	 (ADS,82)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (HCI,58)	
+Ackroyd --> (INF1-CG,73)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (ANLP,80)	
+Ackroyd --> (TTS,97)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DMR,72)	
+Ackroyd -->	
+Ackroyd --> (IJP,77) 	 (BIO1,81)
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (INF1-CG,60)	
+Ackroyd --> (CCN,82)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TTS,76)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (CCN,93)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IAML,65)	
+Ackroyd -->	
+Ackroyd --> (IJP,94)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (DISS,72) 	 (CT,91)
+Ackroyd --> (ABS,43)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (IAML,84)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (TTS,42)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd --> (CCN,71)	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
+Ackroyd -->	
